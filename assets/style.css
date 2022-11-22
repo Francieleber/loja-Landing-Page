@@ -9,3 +9,6 @@
 .text-red{
     columns: red;
 }
+.body{
+    background-color:rgb(255, 196, 248);
+}
